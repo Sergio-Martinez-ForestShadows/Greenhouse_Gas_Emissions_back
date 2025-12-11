@@ -97,7 +97,7 @@ DATABASES = {
         ),
         "PORT": os.getenv("POSTGRES_PORT", "5432"),
         "OPTIONS": {
-            "sslmode": "require",  # Render exige SSL
+            "sslmode": "require", 
         },
     }
 }
