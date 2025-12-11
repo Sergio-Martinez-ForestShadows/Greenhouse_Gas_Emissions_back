@@ -1,0 +1,160 @@
+[
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Air travel",
+    "emission_type": "CO2",
+    "emissions": 3.60
+  },
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Manufacturing",
+    "emission_type": "CO2",
+    "emissions": 2.40
+  },
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Waste",
+    "emission_type": "CH₄",
+    "emissions": 1.30
+  },
+  
+  {
+    "year": 2022,
+    "country": "Germany",
+    "activity": "Agriculture",
+    "emission_type": "CO₂",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "Germany",
+    "activity": "Air travel",
+    "emission_type": "N₂O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  },
+  
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "activity": "Agriculture",
+    "emission_type": "N2O",
+    "emissions": 1.00
+  }
+  
+  
+]
