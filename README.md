@@ -3,10 +3,6 @@
 Backend Service — Django REST Framework
 Developed by Sergio Martinez, Senior Full-Stack Developer
 
-Api 
-
-https://greenhouse-gas-emissions-back.onrender.com/api/emissions/
-
 📌 Overview
 
 This backend service provides a RESTful API for managing and serving annual greenhouse gas emissions data.
@@ -148,7 +144,7 @@ docker run -p 8000:8000 --env-file=.env emissions-backend
 
 The API will be accessible at:
 
-http://localhost:8000/api/emissions/
+https://greenhouse-gas-emissions-back.onrender.com/api/emissions/
 
 🧪 Unit Tests
 
